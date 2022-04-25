@@ -1,0 +1,407 @@
+26-11-2021 18:43:50 INFO     [app.py:14] Loading books list...
+26-11-2021 18:58:42 INFO     [app.py:14] Loading books list...
+26-11-2021 18:58:43 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+26-11-2021 18:59:16 INFO     [menu.py:25] Finding cheapest books
+26-11-2021 18:59:53 INFO     [menu.py:18] Finding best books by rating
+25-01-2022 21:00:28 INFO     [app.py:17] Loading books list...
+25-01-2022 21:00:29 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+25-01-2022 21:00:29 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:29 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:29 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('German', 1.0)] using utf_8
+25-01-2022 21:00:29 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:29 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:29 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:29 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:29 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:29 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 0.99), ('Swedish', 0.96), ('French', 0.92)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0), ('German', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('German', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('German', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:00:30 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:00:30 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:00:30 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 0.9833)] using utf_8
+25-01-2022 21:00:30 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:44 INFO     [app.py:17] Loading books list...
+25-01-2022 21:03:44 INFO     [books_page.py:26] Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('German', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('German', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('German', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0), ('German', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:45 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:45 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:45 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:45 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:46 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:46 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:46 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:46 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:46 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:46 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0)] using utf_8
+25-01-2022 21:03:46 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:46 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:46 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:46 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:46 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:46 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:46 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:46 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 0.9833)] using utf_8
+25-01-2022 21:03:46 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:46 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:46 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:46 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:46 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:46 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:46 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:46 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 1.0), ('Swedish', 1.0), ('French', 1.0)] using utf_8
+25-01-2022 21:03:46 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:46 INFO     [api.py:141] Detected declarative mark in sequence. Priority +1 given for utf_8.
+25-01-2022 21:03:46 INFO     [api.py:376] utf_8 passed initial chaos probing. Mean measured chaos is 0.000000 %
+25-01-2022 21:03:46 INFO     [api.py:409] We detected language [('English', 1.0), ('Indonesian', 1.0), ('Simple English', 1.0), ('Dutch', 0.99), ('Swedish', 0.96), ('French', 0.92)] using utf_8
+25-01-2022 21:03:46 INFO     [api.py:430] utf_8 is most likely the one. Stopping the process.
+25-01-2022 21:03:54 INFO     [menu.py:18] Finding the best books by rating
+25-01-2022 21:04:08 INFO     [menu.py:25] Finding the cheapest books
